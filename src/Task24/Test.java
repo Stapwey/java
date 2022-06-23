@@ -1,4 +1,4 @@
-package twentyfour;
+package Task24;
 
 public class Test {
     public static void main(String[] args) {

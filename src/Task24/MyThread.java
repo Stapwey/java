@@ -1,4 +1,4 @@
-package twentyfour;
+package Task24;
 
 public class MyThread extends Thread {
     private StringBuilder sb;

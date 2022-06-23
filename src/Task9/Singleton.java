@@ -1,4 +1,4 @@
-package nine;
+package Task9;
 
 public class Singleton {
     private static Singleton INSTANCE;
